@@ -1,0 +1,7 @@
+torch>=2.2
+tiktoken>=0.7
+safetensors>=0.4
+huggingface_hub>=0.23
+# tests only: the reference implementation
+transformers>=4.40
+pytest>=8
